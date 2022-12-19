@@ -2,6 +2,8 @@
 
 # Summary and Analysis
 
+<img src="./Starter_Code/plot.png" title="plot.png" />
+
 - Model 1: Original Data (3 months training data): 0.55
 - Model 2:Changing training and testing dataset split(6 months training data): 0.56
 - Model 3:Changing SMA windows(from SMA4 and SMA100 to SMA20 and SMA200): 0.55
