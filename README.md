@@ -2,7 +2,10 @@
 
 # Summary and Analysis
 
-<img src="./Starter_Code/plot.png" title="plot.png" />
+<img src="./Starter_Code/plot1.png" title="plot1.png" />
+<img src="./Starter_Code/plot2.png" title="plot2.png" />
+<img src="./Starter_Code/plot3.png" title="plot3.png" />
+<img src="./Starter_Code/plot4.png" title="plot4.png" />
 
 - Model 1: Original Data (3 months training data): 0.55
 - Model 2:Changing training and testing dataset split(6 months training data): 0.56
