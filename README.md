@@ -17,7 +17,7 @@ Model 2 has the highest accuracy among the 4 methods.
 
 According to the plots:
 
-- model 4's  actual returns are most of the time lower than strategy returns (based on predictions), this may let us lose money since the model is more optimistic than the reality. model 4 also have the lowest score of precision and recall for signal 1. Thus, I will not choose this model.
+- Model 4 has the lowest score of precision and recall for signal 1. Thus, I will not choose this model.
 
 - model 3's actual returns are always higher than strategy returns (based on predictions), which means the model is more pesimistic than the reality, this kind of prediction may let us miss investment opportunities since the prediction is lower than the actual return. Model 3 has a similar precision and a lower recall score of signal 1 comparing with model 1 and 2. From visual comparison, the gap between actual return and strategy return in model 3 is bigger than model 1 and 2, for these reasons, I will not choose model 3 either.
 
